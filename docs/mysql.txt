@@ -1,0 +1,3 @@
+Cai dat xampp, mysql:
+link dowwnload xampp: https://download.com.vn/xampp-for-windows-14235
+link truy cap http://localhost/phpmyadmin/
